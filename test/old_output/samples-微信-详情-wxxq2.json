@@ -1,0 +1,334 @@
+{
+  "API Name": "百度",
+  "Img Path": "samples/微信/详情/wxxq2.jpg",
+  "Result": {
+    "result": {
+      "words_result": [
+        {
+          "words": "15:01",
+          "location": {
+            "top": "35",
+            "left": "62",
+            "width": "80",
+            "height": "27"
+          },
+          "chars": []
+        },
+        {
+          "words": "令",
+          "location": {
+            "top": "34",
+            "left": "650",
+            "width": "131",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "×",
+          "location": {
+            "top": "114",
+            "left": "38",
+            "width": "36",
+            "height": "33"
+          },
+          "chars": []
+        },
+        {
+          "words": "账单详情",
+          "location": {
+            "top": "113",
+            "left": "341",
+            "width": "140",
+            "height": "36"
+          },
+          "chars": []
+        },
+        {
+          "words": "SPTCC",
+          "location": {
+            "top": "309",
+            "left": "379",
+            "width": "66",
+            "height": "10"
+          },
+          "chars": []
+        },
+        {
+          "words": "上海交通卡手机APP",
+          "location": {
+            "top": "358",
+            "left": "262",
+            "width": "305",
+            "height": "36"
+          },
+          "chars": []
+        },
+        {
+          "words": "-5.00",
+          "location": {
+            "top": "435",
+            "left": "336",
+            "width": "151",
+            "height": "48"
+          },
+          "chars": []
+        },
+        {
+          "words": "原价",
+          "location": {
+            "top": "634",
+            "left": "59",
+            "width": "56",
+            "height": "30"
+          },
+          "chars": []
+        },
+        {
+          "words": "￥10.00",
+          "location": {
+            "top": "637",
+            "left": "214",
+            "width": "85",
+            "height": "24"
+          },
+          "chars": []
+        },
+        {
+          "words": "优惠",
+          "location": {
+            "top": "694",
+            "left": "59",
+            "width": "57",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "工行交通卡满减优惠￥5.00",
+          "location": {
+            "top": "694",
+            "left": "215",
+            "width": "323",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "退款记录",
+          "location": {
+            "top": "828",
+            "left": "59",
+            "width": "115",
+            "height": "30"
+          },
+          "chars": []
+        },
+        {
+          "words": "已退款￥5.00",
+          "location": {
+            "top": "829",
+            "left": "218",
+            "width": "171",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "2020-05-2219:27:05",
+          "location": {
+            "top": "873",
+            "left": "216",
+            "width": "284",
+            "height": "26"
+          },
+          "chars": []
+        },
+        {
+          "words": "当前状态",
+          "location": {
+            "top": "1006",
+            "left": "60",
+            "width": "113",
+            "height": "30"
+          },
+          "chars": []
+        },
+        {
+          "words": "已全额退款",
+          "location": {
+            "top": "1007",
+            "left": "217",
+            "width": "143",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "商品",
+          "location": {
+            "top": "1066",
+            "left": "59",
+            "width": "56",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "75991111323",
+          "location": {
+            "top": "1069",
+            "left": "215",
+            "width": "170",
+            "height": "24"
+          },
+          "chars": []
+        },
+        {
+          "words": "商户全称",
+          "location": {
+            "top": "1127",
+            "left": "59",
+            "width": "114",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "上海公共交通卡股份有限公司",
+          "location": {
+            "top": "1126",
+            "left": "219",
+            "width": "369",
+            "height": "31"
+          },
+          "chars": []
+        },
+        {
+          "words": "支付时间",
+          "location": {
+            "top": "1186",
+            "left": "59",
+            "width": "114",
+            "height": "30"
+          },
+          "chars": []
+        },
+        {
+          "words": "2020-05-2219:25:51",
+          "location": {
+            "top": "1189",
+            "left": "216",
+            "width": "280",
+            "height": "25"
+          },
+          "chars": []
+        },
+        {
+          "words": "支付方式",
+          "location": {
+            "top": "1246",
+            "left": "58",
+            "width": "114",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "工商银行储蓄卡(9473)",
+          "location": {
+            "top": "1246",
+            "left": "216",
+            "width": "290",
+            "height": "31"
+          },
+          "chars": []
+        },
+        {
+          "words": "交易单号",
+          "location": {
+            "top": "1306",
+            "left": "58",
+            "width": "114",
+            "height": "29"
+          },
+          "chars": []
+        },
+        {
+          "words": "4200000535202005228533568753",
+          "location": {
+            "top": "1308",
+            "left": "215",
+            "width": "480",
+            "height": "25"
+          },
+          "chars": []
+        },
+        {
+          "words": "商户单号",
+          "location": {
+            "top": "1366",
+            "left": "59",
+            "width": "113",
+            "height": "30"
+          },
+          "chars": []
+        },
+        {
+          "words": "20200522192541012210",
+          "location": {
+            "top": "1368",
+            "left": "216",
+            "width": "324",
+            "height": "26"
+          },
+          "chars": []
+        },
+        {
+          "words": "在此商户的交易账单",
+          "location": {
+            "top": "1528",
+            "left": "57",
+            "width": "258",
+            "height": "30"
+          },
+          "chars": []
+        }
+      ],
+      "log_id": "1282231818271064064",
+      "words_result_num": 29,
+      "direction": 0
+    },
+    "words": [
+      "15:01",
+      "令",
+      "×",
+      "账单详情",
+      "SPTCC",
+      "上海交通卡手机APP",
+      "-5.00",
+      "原价",
+      "￥10.00",
+      "优惠",
+      "工行交通卡满减优惠￥5.00",
+      "退款记录",
+      "已退款￥5.00",
+      "2020-05-2219:27:05",
+      "当前状态",
+      "已全额退款",
+      "商品",
+      "75991111323",
+      "商户全称",
+      "上海公共交通卡股份有限公司",
+      "支付时间",
+      "2020-05-2219:25:51",
+      "支付方式",
+      "工商银行储蓄卡(9473)",
+      "交易单号",
+      "4200000535202005228533568753",
+      "商户单号",
+      "20200522192541012210",
+      "在此商户的交易账单"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+# -----------------------------------
+# @CreateTime   : 2020/7/29 11:38
+# @Author       : Mark Shawn
+# @Email        : shawninjuly@gmail.com
+# ------------------------------------
+
+
+ocr:
+  -
+    name: 通用识别
+    path: /v2/ocr
+    max: 500
+    recommend: true
+  -
+    name: 高精度
+    path: /v2/ocr-high
+    max: 50

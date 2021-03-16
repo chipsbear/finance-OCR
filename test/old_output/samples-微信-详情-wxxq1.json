@@ -1,0 +1,301 @@
+{
+  "API Name": "百度",
+  "Img Path": "samples/微信/详情/wxxq1.jpg",
+  "Result": {
+    "result": {
+      "words_result": [
+        {
+          "words": "1中国移动令",
+          "location": {
+            "top": "9",
+            "left": "46",
+            "width": "188",
+            "height": "37"
+          },
+          "chars": []
+        },
+        {
+          "words": "00:49",
+          "location": {
+            "top": "10",
+            "left": "491",
+            "width": "95",
+            "height": "30"
+          },
+          "chars": []
+        },
+        {
+          "words": "88%",
+          "location": {
+            "top": "11",
+            "left": "933",
+            "width": "66",
+            "height": "30"
+          },
+          "chars": []
+        },
+        {
+          "words": "账单详情",
+          "location": {
+            "top": "83",
+            "left": "447",
+            "width": "179",
+            "height": "48"
+          },
+          "chars": []
+        },
+        {
+          "words": "杉德",
+          "location": {
+            "top": "277",
+            "left": "503",
+            "width": "72",
+            "height": "32"
+          },
+          "chars": []
+        },
+        {
+          "words": "中环陆家嘴物业花苑管理处",
+          "location": {
+            "top": "403",
+            "left": "268",
+            "width": "542",
+            "height": "51"
+          },
+          "chars": []
+        },
+        {
+          "words": "-27.00",
+          "location": {
+            "top": "502",
+            "left": "416",
+            "width": "242",
+            "height": "68"
+          },
+          "chars": []
+        },
+        {
+          "words": "原价",
+          "location": {
+            "top": "764",
+            "left": "76",
+            "width": "75",
+            "height": "42"
+          },
+          "chars": []
+        },
+        {
+          "words": "￥30.00",
+          "location": {
+            "top": "767",
+            "left": "279",
+            "width": "114",
+            "height": "34"
+          },
+          "chars": []
+        },
+        {
+          "words": "优惠",
+          "location": {
+            "top": "844",
+            "left": "78",
+            "width": "75",
+            "height": "39"
+          },
+          "chars": []
+        },
+        {
+          "words": "浦发借记卡3元优惠￥3.00",
+          "location": {
+            "top": "843",
+            "left": "280",
+            "width": "407",
+            "height": "40"
+          },
+          "chars": []
+        },
+        {
+          "words": "当前状态",
+          "location": {
+            "top": "1016",
+            "left": "79",
+            "width": "146",
+            "height": "40"
+          },
+          "chars": []
+        },
+        {
+          "words": "支付成功",
+          "location": {
+            "top": "1016",
+            "left": "279",
+            "width": "154",
+            "height": "42"
+          },
+          "chars": []
+        },
+        {
+          "words": "商品",
+          "location": {
+            "top": "1097",
+            "left": "76",
+            "width": "78",
+            "height": "38"
+          },
+          "chars": []
+        },
+        {
+          "words": "河马付-上海中环陆家嘴物业管理有限公司",
+          "location": {
+            "top": "1092",
+            "left": "279",
+            "width": "686",
+            "height": "46"
+          },
+          "chars": []
+        },
+        {
+          "words": "商户全称",
+          "location": {
+            "top": "1174",
+            "left": "77",
+            "width": "150",
+            "height": "42"
+          },
+          "chars": []
+        },
+        {
+          "words": "中环陆家嘴物业尚东朗庭管理处",
+          "location": {
+            "top": "1173",
+            "left": "281",
+            "width": "526",
+            "height": "41"
+          },
+          "chars": []
+        },
+        {
+          "words": "支付时间",
+          "location": {
+            "top": "1250",
+            "left": "77",
+            "width": "149",
+            "height": "44"
+          },
+          "chars": []
+        },
+        {
+          "words": "2020-03-1609:22:23",
+          "location": {
+            "top": "1253",
+            "left": "282",
+            "width": "372",
+            "height": "37"
+          },
+          "chars": []
+        },
+        {
+          "words": "支付方式",
+          "location": {
+            "top": "1330",
+            "left": "77",
+            "width": "149",
+            "height": "42"
+          },
+          "chars": []
+        },
+        {
+          "words": "浦发银行(8836)",
+          "location": {
+            "top": "1330",
+            "left": "282",
+            "width": "265",
+            "height": "41"
+          },
+          "chars": []
+        },
+        {
+          "words": "交易单号",
+          "location": {
+            "top": "1407",
+            "left": "76",
+            "width": "146",
+            "height": "41"
+          },
+          "chars": []
+        },
+        {
+          "words": "4200000503202003160276767791",
+          "location": {
+            "top": "1411",
+            "left": "282",
+            "width": "612",
+            "height": "35"
+          },
+          "chars": []
+        },
+        {
+          "words": "商户单号",
+          "location": {
+            "top": "1487",
+            "left": "77",
+            "width": "146",
+            "height": "41"
+          },
+          "chars": []
+        },
+        {
+          "words": "HMP2003166645126992876584960",
+          "location": {
+            "top": "1490",
+            "left": "282",
+            "width": "635",
+            "height": "35"
+          },
+          "chars": []
+        },
+        {
+          "words": "发起群收款",
+          "location": {
+            "top": "1697",
+            "left": "76",
+            "width": "188",
+            "height": "41"
+          },
+          "chars": []
+        }
+      ],
+      "log_id": "1279384863064981504",
+      "words_result_num": 26,
+      "direction": 0
+    },
+    "words": [
+      "1中国移动令",
+      "00:49",
+      "88%",
+      "账单详情",
+      "杉德",
+      "中环陆家嘴物业花苑管理处",
+      "-27.00",
+      "原价",
+      "￥30.00",
+      "优惠",
+      "浦发借记卡3元优惠￥3.00",
+      "当前状态",
+      "支付成功",
+      "商品",
+      "河马付-上海中环陆家嘴物业管理有限公司",
+      "商户全称",
+      "中环陆家嘴物业尚东朗庭管理处",
+      "支付时间",
+      "2020-03-1609:22:23",
+      "支付方式",
+      "浦发银行(8836)",
+      "交易单号",
+      "4200000503202003160276767791",
+      "商户单号",
+      "HMP2003166645126992876584960",
+      "发起群收款"
+    ]
+  }
+}

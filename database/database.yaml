@@ -1,0 +1,27 @@
+database:
+  mongodb:
+    username: shenyao
+    password: shenyao
+    host: nanchuan.site
+    port: 2708
+    db_name: shenyao
+    colls:
+      - api_meta:
+          fields:
+            - _id
+            - cp_name
+            - cp_name_cn
+            - api_root
+            - api_path
+            - recommend
+            - called_max
+            - called_by
+            - called_surplus
+            - last_update
+
+      - api_called:
+          fields:
+            - _id
+            - cp_name
+            - api_path
+            - call_time

@@ -1,0 +1,92 @@
+huawei:
+  doc:
+    调用接口: https://console.huaweicloud.com/ocr/?locale=zh-cn&region=cn-north-4#/ocr/management/serviceList/web-image
+    API概览: https://support.huaweicloud.com/api-ocr/ocr_03_0047.html
+  cp_name_cn: 华为
+  root: https://ocr.{region}.myhuaweicloud.com
+  ocr:  # https://support.huaweicloud.com/sdkreference-ocr/ocr_04_0016.html
+    -
+      name: 网络图片识别
+      path: /v1.0/ocr/web-image
+      recommend: true
+      called_max: 500
+      called_by: day
+    -
+      name: 通用文字识别
+      path: /v1.0/ocr/general-text
+      called_max: 500
+      called_by: day
+  app:  # 深杳的账号，目前有50元
+    username: hw86198387
+    password: znstjz2020
+    domain_name: hw86198387  # If the current user is not an IAM user, the DOMAIN_NAME is the same as the USERNAME.
+    project_name: cn-north-4  # cn-north-1,cn-east-2 etc.
+
+    # 暂时使用的是用户密码登录获得token方式，AK和SK用不到
+    AK: RFCBOOFQTM7IA4XDQ1WL  # AK from authentication.
+    SK: LqJAxR9G3Ph5RvLeRXPnCi4M9gz3THXsW6nJDx9c  # SK from authentication.
+
+    region: cn-north-4
+    endpoint: ocr.cn-north-4.myhuaweicloud.com
+
+baidu:
+  doc:
+    APP配置: https://console.bce.baidu.com/ai/?_=1593679186660&fromai=1#/ai/ocr/app/detail~appId=1784047
+    API说明: https://cloud.baidu.com/doc/OCR/s/3k3h7yeqa
+    额度说明: https://ai.baidu.com/ai-doc/OCR/fk3h7xu7h
+  cp_name_cn: 百度
+  root: https://aip.baidubce.com
+  api_oauth: /oauth/2.0/token
+  ocr:
+   -
+    name: 网络图片文字识别
+    path: /rest/2.0/ocr/v1/webimage
+    recommend: true
+    called_max: 500
+    called_by: day
+   -
+    name: 网络图片文字识别（含位置版）
+    path: /rest/2.0/ocr/v1/webimage_loc
+    called_max: 1000
+    called_by: total
+   -
+    name: 通用文字识别
+    path: /rest/2.0/ocr/v1/general_basic
+    called_max: 50000
+    called_by: day
+   -
+    name: 通用文字识别（含位置信息版）
+    path: /rest/2.0/ocr/v1/general
+    called_max: 500
+    called_by: day
+   -
+    name: 通用文字识别（高精度版）
+    path: /rest/2.0/ocr/v1/accurate_basic
+    called_max: 500
+    called_by: day
+   -
+    name: 通用文字识别（高精度含位置版）
+    path: /rest/2.0/ocr/v1/accurate
+    called_max: 500
+    called_by: day
+  app:  # 南川个人申请的APP
+    APP_ID: 20724716  # 这个用不到
+    AK: zsZBR5PX8GlH4oiyhh9GjXqG
+    SK: p14oSmCQZnf55ORuBXTxkO5goafb01Fq
+
+youdao:
+  cp_name_cn: 有道
+  app:
+    AK: 1ae4af450fc5bb6c
+    SK: Q16ydiHkioWWFEjjhBwMX7AZpX3so8Mu
+  root: https://openapi.youdao.com
+  ocr:
+   -
+    name: 通用OCR服务
+    path: /ocrapi
+  #
+#kuangshi:
+#  root: https://api-cn.faceplusplus.com
+#  ocr:
+#    /imagepp/v1/recognizetext: Recognize Text API (V1)
+#

@@ -1,0 +1,9 @@
+all: 运行此命令会将全过程跑一遍
+
+第一次运行前请确保已将标准答案放入./primitive_answer;将待检测图片放入./data
+
+transdata: 运行此命令将仅执行标答格式转换至/answer
+
+callapi: 运行此命令将仅执行api调用检测/data并缓存结果至/result，无法检测的图片放入/bad
+
+compare: 运行此命令将仅执行比较json并输出csv至/result，无效的json被送入/invalidjson

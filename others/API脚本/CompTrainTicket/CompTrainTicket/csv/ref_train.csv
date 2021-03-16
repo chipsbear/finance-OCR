@@ -1,0 +1,9 @@
+企业名称,唯你网,百度,阿里,Answer,睿琪
+1.始发地,,starting_station,origin,Origin,station_geton
+2.目的地,,destination_station,destination,Dest,station_getoff
+3.车次,,train_num,number,TrainNO,train_number
+4.座位等级,,seat_category,level,SeatClass,seat
+5.乘车日期,,date,date,IssueDate,date
+6.票价,,ticket_rates,price,TotalAmount,total
+7.姓名,,name,name,PayingCorp,name
+8.时间,,NotAvailable,time,IssueTime,NotAvailable
